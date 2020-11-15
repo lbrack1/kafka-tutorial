@@ -1,3 +1,5 @@
 # kafka-tutorial
 
-This guide will demonstrate how to deploy a minimal Apache Kafka cluster on Docker and set up producers and consumers using Python. We will also deploy an instance of Kafdrop for easy cluster monitoring.
+A full tutorial for deploying a Kafka cluster with Python producers and consumers.
+
+https://medium.com/better-programming/a-simple-apache-kafka-cluster-with-docker-kafdrop-and-python-cf45ab99e2b9
